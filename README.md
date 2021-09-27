@@ -13,7 +13,7 @@ This application was built to easily create consistent README files for future p
 ## Installation
 Clone the app into a local directory.  Make sure you have inquirer installed('npm i' in your terminal if not).
 
-Audio Tutorial: https://watch.screencastify.com/v/jvucr08kv3yfYEA0vxg6
+Audio Tutorial: https://watch.screencastify.com/v/jlbHocMZcjghzwbGeMtt
 ## Usage
 To run this app you must have your terminal open to the 'README-Generator' folder. Start the app by inputing 'node index.js' into your terminal.  A series of questions will begin. Feel free to leave sections incomplete or even blank as they can be edited and/or removed later.
 ## Contributions
