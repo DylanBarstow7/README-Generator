@@ -2,6 +2,7 @@
 const inquirer = require("inquirer")
 const generateMarkdown = require("./Assets/utils/js/generateMarkdown.js")
 const fs = require("fs")
+const path = require("path")
 
 // TODO: Create an array of questions for user input
 const questions = [
